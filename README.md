@@ -5,11 +5,11 @@ Projeto Final Curso Data Engineer Semantix - COVID
 ### Ambiente de desenvolvimento
 
 <b>Instalar as Ferramentas</b>
-[Docker]('https://docs.docker.com/engine/install/')
-[docker-compose]('https://docs.docker.com/compose/install/')
+[Docker]('https://docs.docker.com/engine/install)</br>
+[docker-compose](https://docs.docker.com/compose/install/)</br>
 
-<b>Base de dados - Covid </b>
-[Dados]('https://mobileapps.saude.gov.br/esus-vepi/files/unAFkcaNDeXajurGB7LChj8SgQYS2ptm/04bd3419b22b9cc5c6efac2c6528100d_HIST_PAINEL_COVIDBR_06jul2021.rar')
+<b>Base de dados - Covid </b></br>
+[Dados](https://mobileapps.saude.gov.br/esus-vepi/files/unAFkcaNDeXajurGB7LChj8SgQYS2ptm/04bd3419b22b9cc5c6efac2c6528100d_HIST_PAINEL_COVIDBR_06jul2021.rar)
 
 ### Como utilizar o Projeto
 
