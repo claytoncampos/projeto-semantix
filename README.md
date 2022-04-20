@@ -4,8 +4,8 @@ Projeto Final Curso Data Engineer Semantix - COVID
 
 ### Ambiente de desenvolvimento
 
-<b>Instalar as Ferramentas</b>
-[Docker]('https://docs.docker.com/engine/install)</br>
+<b>Instalar as Ferramentas</b></br>
+[Docker](https://docs.docker.com/engine/install)</br>
 [docker-compose](https://docs.docker.com/compose/install/)</br>
 
 <b>Base de dados - Covid </b></br>
